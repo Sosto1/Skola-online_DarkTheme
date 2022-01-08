@@ -1,0 +1,280 @@
+body{
+    background: url("")!important;
+    background-color: rgb(35, 35, 35)!important;
+    color: rgb(204, 204, 204)!important;
+}
+body .content_frame>div, body .content_frame>table, body .left_frame>table, body.DetailPage>div, body.DetailPage>table {
+    background-color: rgb(64, 64, 64)!important;
+    border-radius: 20px!important;
+}
+body .DashboardBox {
+    background: rgb(64, 64, 64)!important;
+    border-radius: 16px!important;
+    height: 330px!important;
+}
+body header .top-header .account {
+    border-left: 2px solid rgb(3, 218, 198)!important;
+    border-right: 2px solid rgb(3, 218, 198)!important;
+}
+body header .top-header .messages {
+    border-left: 2px solid rgb(3, 218, 198)!important;
+}
+body .DashboardBox .header {
+    border-bottom: 4px solid rgb(187, 134, 252)!important;
+}
+
+body header .top-header .account .user-role {
+    color: rgb(130, 93, 175)!important;
+}
+
+body .DashboardBox .header .info {
+    color: rgb(187, 134, 252)!important;
+}
+body .DashboardBox .header h3 {
+    color: rgb(187, 134, 252)!important;
+}
+
+body header .main-menu nav div span ul li:hover>a{
+    background: url("")!important;
+    background-color: rgb(35, 35, 35)!important;
+}
+body header .main-menu nav div span ul li>a{
+    background: url("")!important;
+    background-color: rgb(64, 64, 64)!important;
+}
+
+body header .main-menu nav div span ul li ul li a{
+    color: rgb(187, 134, 252)!important;
+}
+body header .main-menu nav div span ul li a{
+    color: rgb(187, 134, 252)!important;
+}
+body a {
+    color: rgb(187, 134, 252)!important;
+}
+
+body header .main-menu {
+    background-color: rgb(64, 64, 64)!important;
+}
+
+body header .top-header .messages .badge {
+    background-color: rgb(64, 64, 64)!important;
+    color: rgb(3, 218, 198)!important;
+}
+
+.DctInnerTableType10DataTD {
+    background: rgba(63, 255, 239, 0.705)!important;
+    border-radius: 5px!important;
+    color: rgb(0, 0, 0)!important;
+}
+.KuvSuplujiciHodina {
+    background: rgba(255, 43, 43, 0.568)!important;
+    border-radius: 5px!important;
+    color: rgb(224, 224, 224)!important;
+}
+.KuvSuplovanaHodina {
+    background: rgba(33, 143, 134, 0.459)!important;
+    border-radius: 5px!important;
+    color: rgb(121, 121, 121)!important;
+}
+.KuvSkolniAkceHodina {
+    background: rgba(252, 242, 110, 0.849)!important;
+    border-radius: 5px!important;
+    color: rgb(0, 0, 0)!important;
+}
+.KuvOUOstatni {
+    background: rgba(255, 238, 7, 0.849)!important;
+    border-radius: 5px!important;
+    color: rgb(0, 0, 0)!important;
+}
+
+
+table#G_ctl00xmainxCCADynamicUWGrid td { 
+    background-color: rgb(52, 50, 62)!important;
+}
+
+.VHVysl {
+    color: rgb(224, 224, 224)!important;
+}
+TBODY.igtbl_Item > TR:last-child {
+    border-bottom: 1px solid rgb(187, 134, 252)!important;
+}
+
+div#ctl00xmainxCCADynamicUWGrid_div {
+    border-radius: 10px!important;
+}
+
+
+body input:not([type=button]):not([type=submit]):not([type=file]) {
+    background-color: rgb(35, 35, 35)!important;
+    border: 1px solid rgb(130, 93, 175)!important;
+    color: rgb(231, 231, 231)!important;
+}
+
+
+TBODY.igtbl_Item TR td {
+    border-top: 1px solid rgb(187, 134, 252)!important;
+    border-left: 0px solid transparent!important;
+}
+.VHUzavNehodn, .VHUzavNeklas, .VHUzavSlovne, .VHUzavUvolnen, .VHUzavUznano {
+    color: rgb(224, 224, 224)!important;
+}
+
+body .left_frame .left_frame_area_header {
+    border-bottom: 4px solid rgb(187, 134, 252)!important;
+}
+body .content_frame .content_frame_area_header, body.DetailPage .content_frame_area_header {
+    border-bottom: 4px solid rgb(187, 134, 252)!important;
+}
+
+body .content_frame .content_frame_area_header .form-title, body .left_frame .left_frame_area_header, body.DetailPage .content_frame_area_header .form-title {
+    color: rgb(3, 218, 198)!important;
+}
+
+body .sol-btn-panel {
+    background-color: rgb(64, 64, 64)!important;
+    border-radius: 0 0 20px 20px!important;
+}
+
+.igcal_Footer {
+    background-color: rgb(64, 64, 64)!important;
+    border-top: 1px solid rgb(130, 93, 175)!important;
+
+}
+.igcal_Calendar TR:first-child {
+    background-color: rgb(64, 64, 64)!important;
+}
+.igcal_DOW {
+    color: rgb(187, 134, 252)!important;
+}
+
+body select:not(.igtbl_DropDown) {
+    border: 1px solid rgb(130, 93, 175)!important;
+    border-radius: 7px!important;
+    background: url(images/themes/sol-bak/icons/ico32-dropDown.svg) right 0 top 0 no-repeat rgb(35, 35, 35 )!important;
+    color: #e7e7e7!important;
+    padding: 6px 46px 6px 6px!important;
+}
+
+.igcal_Day {
+    color: rgb(189, 189, 189)!important;
+}
+
+.igcal_TodayDay {
+    color: rgb(3, 218, 198)!important;
+    background-color: rgb(64, 64, 64)!important;
+}
+.igcal_SelectedDay {
+    background-color: rgb(3, 218, 198)!important;
+    color: rgb(0, 0, 0)!important;
+}
+
+.DctTable .RowOdd {
+    background-color: rgb(35, 35, 35 )!important;
+}
+.DctTable .RowEven {
+    background: rgb(50, 50, 50)!important;
+}
+
+.DctTable tr th:first-child {
+    background-color: rgb(130, 93, 175)!important;
+    border-radius: 20px 0 0 20px!important;
+    border-top: 4px solid rgb(64, 64, 64)!important;
+    border-bottom: 4px solid rgb(64, 64, 64)!important;
+}
+.DctTable tbody tr:first-child th:nth-child(1) {
+    background-color: transparent!important;
+    border: none!important;
+}
+
+
+.DctTable tr:first-child th {
+    border: 4px solid rgb(64, 64, 64)!important;
+    border-bottom-color: 4px solid rgb(64, 64, 64)!important;
+    background-color: rgb(130, 93, 175)!important;
+    border-radius: 20px 20px 0 0!important;
+}
+
+
+.DctCell {
+    border-left: 1px solid rgb(130, 93, 175)!important;
+    border-right: 1px solid rgb(130, 93, 175)!important;
+}
+.DctCellBottom {
+    border-bottom: 1px solid rgb(130, 93, 175)!important;
+}
+
+body .DashboardBox .content .smallTable tr:nth-child(2n+1) {
+    background-color: rgb(50, 50, 50)!important;
+}
+
+.DochDen TH, .DochKal TH, .DochMes TH, .DochTyd TH {
+    border: 1px solid #3b3b3b!important;
+    background-color: rgb(52, 50, 62)!important;
+}
+
+.DochDen, .DochKal, .DochMes, .DochTyd {
+    background: rgb(50, 50, 50)!important;
+}
+
+.igcal_Control {
+    background-color: rgb(36, 36, 36)!important;
+}
+.DochDen TD, .DochKal TD, .DochMes TD, .DochTyd TD {
+    border: 1px solid #3b3b3b!important;
+}
+
+.Omluv {
+    color: #d6d91f!important;
+}
+
+body .boxDochazka .absence_O {
+    color: rgb(3, 218, 198)!important;
+}
+
+body .sol-btn-group-1 button {
+    color: rgb(240, 240, 240)!important;
+    background-color: rgb(130, 93, 175)!important;
+    border-radius: 9px!important;
+
+}
+
+body button, body input[type=submit] {
+    color: rgb(240, 240, 240)!important;
+    background-color: rgb(130, 93, 175)!important;
+    border-radius: 9px!important;
+}
+
+ .igtab_SelectedTab_Top {
+    background-color: rgb(64, 64, 64)!important;
+}
+
+.igtab_DefaultTab_Top {
+    background-color: rgb(118 118 118)!important;
+}  
+
+TH.igtbl_Header {
+    color: #f9f9f9!important;
+}
+
+THEAD.igtbl_Header TR TH, TFOOT.igtbl_Header TR TH, TBODY.igtbl_Header TR TH {
+    background-color: rgb(52, 50, 62)!important;
+}
+TBODY.igtbl_Header TR TH.igtbl_Label {
+    background-color: rgb(52, 50, 62)!important;
+}
+
+TBODY.igtbl_Item > TR {
+    border-top: 1px solid rgb(187, 134, 252)!important;
+}
+
+body .FilterButtonOff, body .FilterButtonOn, body .sol-btn-filter {
+    border: none;
+    background: url(images/themes/sol-bak/icons/ico32-filter.svg) center left no-repeat!important;
+    width: 64px!important;
+    height: 34px;
+    color: transparent;
+}
+button#ctl00_main_uwt_ctl00_zg_ogbFiltr {
+    text-align: right!important;
+}
