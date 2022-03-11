@@ -278,3 +278,53 @@ body .FilterButtonOff, body .FilterButtonOn, body .sol-btn-filter {
 button#ctl00_main_uwt_ctl00_zg_ogbFiltr {
     text-align: right!important;
 }
+
+
+.TooltipCaptionBackground {
+    background-color: rgb(35, 35, 35)!important;
+    border: 1px solid rgb(130, 93, 175)!important;
+    border-radius: 10px!important;
+}
+
+.TooltipCaptionFont, .TooltipHodnotaFont, .TooltipNazevFont {
+    color: rgb(240, 240, 240)!important;
+    line-height: 18px;
+}
+
+TBODY.igtbl_Item > TR:hover {
+    background-color: rgb(64, 64, 64)!important;
+     color: rgb(3, 218, 198)!important;
+
+    /* font-weight: 700; */
+}
+
+TBODY.igtbl_Item TR.igtbl_Selected TD, TBODY.igtbl_Item TR TD.igtbl_Selected, .igtbl_Selected {
+    background-color: #8b8b8b !important;
+    color: rgb(3, 218, 198)!important;
+}
+
+.ig_Alt {
+    background-color: rgb(82, 82, 82)!important;
+}
+
+body select:not(.igtbl_DropDown):focus {
+    box-shadow: 0 0 0 3px rgb(130, 93, 175 / 30%)!important;
+}
+
+body .modalPopup {
+    background: rgb(35, 35, 35)!important;
+    border-radius: 15px!important;
+}
+
+body .modalPopupDragHandle {
+    border-bottom: 3px solid rgb(130, 93, 175)!important;
+    color: rgb(3, 218, 198)!important;
+}
+
+body .modalButtonContainer {
+    background-color: #f9000000!important;
+}
+body .modalBackground {
+    background-color: #000000f7!important;
+    opacity: .7!important;
+}
