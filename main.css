@@ -250,7 +250,7 @@ body button, body input[type=submit] {
 }
 
 .igtab_DefaultTab_Top {
-    background-color: rgb(118 118 118)!important;
+    background-color: rgb(64, 64, 64)!important;
 }  
 
 TH.igtbl_Header {
@@ -327,4 +327,15 @@ body .modalButtonContainer {
 body .modalBackground {
     background-color: #000000f7!important;
     opacity: .7!important;
+}
+
+body .boxInformaceMaterskaSkola .content .smallTable tr:nth-child(2n+1), body .boxPrijateZpravy .content .smallTable tr:nth-child(2n+1) {
+    background-color: transparent!important;
+}
+
+.igtab_HoverTab_Top {
+    background-color: #242424!important;
+    border-color: white /*#699BC9*/;
+    border-bottom-color: rgb(64, 64, 64)!important;
+    color: rgb(3, 218, 198)!important
 }
